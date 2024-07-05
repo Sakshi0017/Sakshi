@@ -1,3 +1,4 @@
+![logo](https://github.com/Sakshi0017/Sakshi/blob/main/Neon%20Green%20Gaming%20Channel%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sakshi Chaudhary</h1>
 <h3 align="center">A passionate IT student from India</h3>
 <img align="right" alt="coding" width="400" src="https://tse4.mm.bing.net/th?id=OIP.j9auLwki5u0ZkJUzhgvekAHaFj&pid=Api&P=0&h=180">
