@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi0017&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi0017" /> </p>
 
-- 🔭 I’m currently working on **Spotify Clone**
+- 🔭 I’m currently working on **Spotify Clone Project**
 
 - 🌱 I’m currently learning **Typescript(superset of Javascript)**
 
