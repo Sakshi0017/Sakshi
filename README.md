@@ -1,6 +1,6 @@
 ![logo](https://github.com/Sakshi0017/Sakshi/blob/main/Neon%20Green%20Gaming%20Channel%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sakshi Chaudhary</h1>
-<h3 align="center">A passionate IT student from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://tse4.mm.bing.net/th?id=OIP.j9auLwki5u0ZkJUzhgvekAHaFj&pid=Api&P=0&h=180">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi0017&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi0017" /> </p>
